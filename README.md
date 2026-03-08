@@ -1,2 +1,5 @@
 # Algorithm-study
-This is an auto push repository for Baekjoon Online Judge created with [BaekjoonHub](https://github.com/BaekjoonHub/BaekjoonHub).
+알고리즘 문제 풀이 기록 저장소입니다.
+문제의 핵심 접근 방식과 알고리즘적 사고를 정리하는 것을 목표로 합니다.
+개념적인 궁금증이나 문법 정리는 TIL에서 따로 관리합니다.
+

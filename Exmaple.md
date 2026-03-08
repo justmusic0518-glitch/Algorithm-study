@@ -1,10 +1,9 @@
 # Algorithm Study Log
 
----
-
 ## Beakjun 1316 - 그룹 단어 체커
 
 난이도: Silver V
+
 주소 : https://www.acmicpc.net/problem/1110
 
 ### Idea
